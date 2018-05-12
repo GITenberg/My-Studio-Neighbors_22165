@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7134
     wikipedia: http://en.wikipedia.org/wiki/William_Hamilton_Gibson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22165#My-Studio-Neighbors
 gutenberg_bookshelf: Biology
 gutenberg_issued: '2007-07-28'
 gutenberg_type: Text
