@@ -1,0 +1,34 @@
+_repo: My-Studio-Neighbors_22165
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22165-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Gibson, W. Hamilton (William Hamilton)
+    alias: Gibson, William Hamilton
+    birthdate: 1850
+    deathdate: 1896
+    gutenberg_agent_id: '7134'
+    url: http://www.gutenberg.org/2009/agents/7134
+    wikipedia: http://en.wikipedia.org/wiki/William_Hamilton_Gibson
+description: ''
+gutenberg_bookshelf: Biology
+gutenberg_issued: '2007-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22165'
+  lccn: '04010720'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Outdoor books'
+- !lcc 'QH'
+- !lcsh 'Natural history'
+tableOfContents: A familiar guest -- The cuckoos and the outwitted cowbird -- Door-step
+  neighbors -- A queer little family on the bittersweet -- The welcome of the flowers
+  -- A honey-dew picnic -- A few native orchids and their insect sponsors -- The milkweed.
+title: My Studio Neighbors
+url: http://www.gutenberg.org/ebooks/22165
